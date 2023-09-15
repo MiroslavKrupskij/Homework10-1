@@ -24,3 +24,22 @@ body {
     font-weight: 400;
     padding-left: 20px;
 }
+.title {
+    color: aliceblue;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+.information {
+    float: left;
+    padding-right: 20px;
+}
+.text {
+    color: aliceblue;
+    font-weight: 400;
+}
+.info-tour {
+    float: left;
+    padding-right: 20px;
+}
